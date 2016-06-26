@@ -2,10 +2,12 @@
 C# implementation Bresenham and Xiaolin wu's algorithms.
 
 ## Aplication
-Demonstration of three algotihms:
-* Bresenham algorithm for rasterization lines
-* Xiaolin Wu's line algorithm with smoothing
-* Xialin Wu's circle algorithm with smoothing
+### Bresenham algorithm for rasterization lines
+![Bresenham line](http://i.imgur.com/HUwX6Hr.png)
+### Xiaolin Wu's line algorithm with smoothing
+![Xiaolin Wu's line](http://i.imgur.com/fYfgyxa.png)
+### Xialin Wu's circle algorithm with smoothing
+![Xialin Wu's circle](http://i.imgur.com/ZbB1h5P.png)
 
 With zoom option for better visualization of algorithms.
 
